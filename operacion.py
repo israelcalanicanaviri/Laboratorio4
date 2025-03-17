@@ -1,4 +1,4 @@
-numero1 = 8
-numero2 = 10
-suma = numero1 + numero2
-print("La suma de", numero1, "y", numero2, "es:", suma)
+numero2 = 8
+numero3 = 10
+suma = numero2 + numero3
+print("La suma de", numero2, "y", numero3, "es:", suma)
